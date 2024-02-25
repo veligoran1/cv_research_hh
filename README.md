@@ -9,3 +9,4 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 2. _______](____)
 
 ## Ссылки на резюме
+[LinkedIn](https://www.linkedin.com/in/veligoran/)
